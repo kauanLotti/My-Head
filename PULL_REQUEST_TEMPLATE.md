@@ -10,9 +10,9 @@ Abrindo a pagina no navegador e verificando se a imagem e titulo estao aparecend
 
 ## Checklist
 
-- [x] Testei as alterações localmente
-- [x] O projeto está funcionando corretamente
-- [x] Não existem erros no console
-- [x] Atualizei o README, caso necessário
-- [x] Revisei minhas alterações antes de solicitar o merge
+- [ ] Testei as alterações localmente
+- [ ] O projeto está funcionando corretamente
+- [ ] Não existem erros no console
+- [ ] Atualizei o README, caso necessário
+- [ ] Revisei minhas alterações antes de solicitar o merge
 
